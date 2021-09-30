@@ -1,0 +1,11 @@
+.social{
+    background-color:gray;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    padding: 5px 10px ;
+    font-size: 2rem;
+}
